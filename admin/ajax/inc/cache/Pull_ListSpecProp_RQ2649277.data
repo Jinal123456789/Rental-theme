@@ -1,0 +1,156 @@
+<Pull_ListSpecProp_RS><Status ID="0">Success</Status><ResponseID>205e8bdd31da4f8fb5c021bc5a5796d6</ResponseID><Property Currency="USD"><PUID BuildingID="-1">16195706</PUID><ID BuildingID="-1" BuildingName="">2649277</ID><Name>300m from beach luxury 4BR villa, central Seminyaktest by Artur</Name><OwnerID>565998</OwnerID><DetailedLocationID TypeID="4">11481</DetailedLocationID><LastMod NLA="false" Active="true">2021-02-16 18:35:12</LastMod><DateCreated>2020-05-11</DateCreated><UserID>565998</UserID><CleaningPrice>50.0000</CleaningPrice><Space>0</Space><StandardGuests>8</StandardGuests><CanSleepMax>9</CanSleepMax><PropertyTypeID>4</PropertyTypeID><ObjectTypeID>35</ObjectTypeID><NoOfUnits>1</NoOfUnits><Floor>0</Floor><Street>Jalan Pura Telaga Waja</Street><ZipCode>80361</ZipCode><LicenseNumber /><LicenceInfo><LicenceNumber /><IsExempt>false</IsExempt></LicenceInfo><Coordinates><Latitude>-8.680845</Latitude><Longitude>115.154327</Longitude></Coordinates><ArrivalInstructions><Landlord /><Email>villa.agung.rakas@hotmail.com</Email><Phone>+62 85737699251</Phone><DaysBeforeArrival>0</DaysBeforeArrival><PickupService /><HowToArrive /></ArrivalInstructions><CheckInOut><CheckInFrom>15:00</CheckInFrom><CheckInTo>00:00</CheckInTo><CheckOutUntil>12:00</CheckOutUntil><Place /><LateArrivalFees /><EarlyDepartureFees /></CheckInOut><Deposit DepositTypeID="1">0</Deposit><SecurityDeposit DepositTypeID="5">300.00</SecurityDeposit><IsActive>true</IsActive><IsArchived>false</IsArchived><Distances><Distance><DestinationID>25548</DestinationID><DistanceUnitID>6</DistanceUnitID><DistanceValue>1.00</DistanceValue></Distance><Distance><DestinationID>25549</DestinationID><DistanceUnitID>3</DistanceUnitID><DistanceValue>1.00</DistanceValue></Distance><Distance><DestinationID>25550</DestinationID><DistanceUnitID>3</DistanceUnitID><DistanceValue>20.00</DistanceValue></Distance></Distances><CompositionRoomsAmenities><CompositionRoomAmenities CompositionRoomID="81"><Amenities /></CompositionRoomAmenities><CompositionRoomAmenities CompositionRoomID="81"><Amenities /></CompositionRoomAmenities><CompositionRoomAmenities CompositionRoomID="257"><Amenities><Amenity Count="1">444</Amenity><Amenity Count="1">957</Amenity></Amenities></CompositionRoomAmenities><CompositionRoomAmenities CompositionRoomID="257"><Amenities><Amenity Count="1">485</Amenity><Amenity Count="1">687</Amenity></Amenities></CompositionRoomAmenities><CompositionRoomAmenities CompositionRoomID="257"><Amenities><Amenity Count="1">324</Amenity><Amenity Count="1">780</Amenity></Amenities></CompositionRoomAmenities></CompositionRoomsAmenities><Amenities><Amenity Count="1">6</Amenity><Amenity Count="1">7</Amenity><Amenity Count="1">8</Amenity><Amenity Count="1">19</Amenity><Amenity Count="1">74</Amenity><Amenity Count="1">89</Amenity><Amenity Count="1">101</Amenity><Amenity Count="1">115</Amenity><Amenity Count="1">131</Amenity><Amenity Count="1">180</Amenity><Amenity Count="1">227</Amenity><Amenity Count="1">235</Amenity><Amenity Count="1">320</Amenity><Amenity Count="1">346</Amenity><Amenity Count="1">408</Amenity><Amenity Count="1">499</Amenity><Amenity Count="1">589</Amenity><Amenity Count="1">590</Amenity><Amenity Count="1">702</Amenity><Amenity Count="1">792</Amenity><Amenity Count="1">802</Amenity><Amenity Count="1">829</Amenity><Amenity Count="1">930</Amenity></Amenities><Images><Image ImageTypeID="4">https://a0.muscache.com/im/pictures/44fc79f5-c1d1-40e0-a4cc-262bb4b2f9ea.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/62641c51-3ca5-4546-9a8d-49615a10365a.jpg?aki_policy=x_large</Image><Image ImageTypeID="1" ImageReferenceID="3">https://a0.muscache.com/im/pictures/15daecd2-4a1f-4f5c-a188-72b84c878898.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/843d99ba-9ab2-4821-98b2-159e57e712bf.jpg?aki_policy=x_large</Image><Image ImageTypeID="3" ImageReferenceID="5">https://a0.muscache.com/im/pictures/13016b7d-bda5-48de-8a81-37503637887e.jpg?aki_policy=x_large</Image><Image ImageTypeID="3" ImageReferenceID="6">https://a0.muscache.com/im/pictures/43e166f8-d68b-4c62-8409-895d8b785405.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/24a35994-5574-4159-8417-de08c85c16d3.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/b8918266-a103-4c89-92fa-8fa6bc1d1f8d.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/42f8bcb9-e6da-4a72-b6fb-95f680dc2222.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/f10ed938-14eb-427c-89e2-d737bf8bc43f.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/8f504d27-29ca-47cd-baad-183bfb117fd8.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/0db5669e-af91-49f3-b502-5155b2399b94.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/f9049445-bc26-400e-a4d5-5ee8b069bfe9.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/1c22e034-52df-40ec-a74c-a230658b845e.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/b21de6c0-c9b0-4bb3-8a33-0cb1ca4e32ff.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/daa81b62-ced8-402a-94c7-8cf265b75b5a.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/a9a2c95b-e1a5-4cbb-b221-a8348c19bb73.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/9b400713-8774-4ac2-857d-a67661349e4d.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/51f44310-78e2-4c06-85c4-0db4f1dbe1f9.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/674edf92-0f35-4d84-bcac-878efd93293e.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/a70854c8-95d3-4902-bab5-5ee585d71b7c.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/974d63be-9a9b-43a8-a342-9d0cd5446ba6.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/66431a34-3f28-441e-9282-0123b1cb01c9.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/4a6c5ce3-c995-4e09-8d04-923649a61f5b.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/0ce7e24f-b08e-4d5d-b18d-3348a3553d33.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/d33f503a-d70b-4e74-a1f5-330f06adf731.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/3c077331-179d-44e9-b019-a9790201b898.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/7a8cb71d-0a8f-4138-8d6a-98f17f40491e.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/93e180d1-b813-43bd-99f3-af35629d366a.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/c374b32d-36b6-4d60-bae6-00068ba97f9d.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/1817e7cf-1e3e-4196-bfdc-7254f3a6fc1e.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/be050257-a846-4cf5-abdd-dc7b30f829ac.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/0db40610-7818-4b8b-8d7c-8264ebae9e64.jpg?aki_policy=x_large</Image><Image ImageTypeID="3">https://a0.muscache.com/im/pictures/de41afe1-c545-4d9e-bbab-0f2a78ffc6e8.jpg?aki_policy=x_large</Image></Images><ImageCaptions><ImageCaption LanguageID="1" ImageReferenceID="3">Bird's-eye view of property</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="5">Spacious pool</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="6">Cozy interior </ImageCaption></ImageCaptions><PaymentMethods><PaymentMethod PaymentMethodID="2"><![CDATA[
+              account number:123131231231231
+            ]]></PaymentMethod><PaymentMethod PaymentMethodID="3"><![CDATA[
+                AMEX
+            , 
+             VISA,
+             MASTERCARD  
+            ]]></PaymentMethod></PaymentMethods><CancellationPolicies><CancellationPolicy ID="0" ValidFrom="0" ValidTo="7">100.00</CancellationPolicy><CancellationPolicy ID="0" ValidFrom="8" ValidTo="500">50.00</CancellationPolicy></CancellationPolicies><Descriptions><Description LanguageID="1"><Text><![CDATA[This beautiful, modern and luxury villa will give you a pleasant relaxing holiday within a short stroll from all the action and beach!
+
+* Butler & cleaning service
+* FREE daily American breakfast 
+* Air conditioned living room & bedrooms
+* FREE Airport pick up (1 car up to 6 pax)
+* 5-10' walk from beach/Potato head, W & famous Ku De Ta 
+* 5' walk to many restaurants, shops, bars
+* 5' walk from Seminyak "food" street 
+* Quiet & safe
+
+Located less than 300 meters from Seminyak Beach, the villa has all the elements for the perfect family or group of friend holiday. It offers almost 800 square meters of living space and brings together the elements of modern living whilst retaining the traditions that are truly Indonesian and Balinese. Featured throughout the villa is the extensive handcrafted local timber and art works which blends perfectly with other modern furnishings.
+
+
+The Villa has two living and entertainment areas, one located on the first level, and the other on level three. The first level also contains a dining area, complete with a ten seater dining table and gourmet kitchen. Extensive use has been made of wood and marble in furnishing the area. The large glass and wood sliding doors open on to the Villa’s garden and pool area.
+
+
+Occupying the entire 3rd level of the building is a large living / entertainment room with bar which leads out onto a large balcony overlooking the pool. There is also a quiet sitting area ideal for chilling out with a good book or perhaps and afternoon siesta.
+
+
+Four king size bedroom suites with luxury en-suite bathrooms are basically similar in size meaning that all guests can enjoy their stay in comfort and style. 
+
+
+All bedrooms feature four-poster king size beds, lounge area with sofas and coffee table, flat screen TV with DVD player, air-conditioning, and safety boxes.
+
+
+All bedrooms overlook the pool and gardens with the Jiwa Suite and one deluxe suite situated in their own separate two level building and the third and fourth deluxe suites situated on the second level of the main building.
+
+
+Ideally located in the entertainment heart of Seminyak, Bali, it is within easy walking distance to Seminyak Beach, and many of Bali`s best restaurants and entertainment night spots including, Ku De Ta, Sea vu play, La Luciola, Potato Head Beach Club, Merah Putih, Biku, The W Hotel & Bar, and many others.
+
+
+Swimming Pool
+ The villa offers great facilities to make your stay with us on the Island of the Gods a comfortable and relaxing experience. The swimming pool is finished in deep blue slate with an acid marble infinity boarder. The sundecks at pool level and overhead walkway allow guests to relax and enjoy the sun and Balinese’s hospitality
+
+
+The Living Room
+The living room area offers an ideal place for guests to sit and relax any time of the day in an cool air conditioned climate. The room is well appointed with modern paintings and elegant Balinese ornaments completed with a Sony 52″ TV, Bose I Pod Dock and Smart Music System
+
+
+At night this room is transformed with the night lights of the villa’s courtyard area.
+
+
+The villa offers an elegant dining and kitchen area.
+
+
+To make your in house dining experience a memorable one, the dining room is furnished in white marble with a large teak table that allows seating for up to ten guests at any one sitting.
+
+
+The modern kitchen is finished in burnt wood with state of the art equipment to make your stay an enjoyable one.
+
+
+Should guests require a more casual approach to dining a barbecue can be arranged in the courtyard area by contacting your Butler.
+
+
+The Bedroom Suites
+The villa has four bedroom suites, the Jiwa Suite and three Deluxe Suites. The Jiwa Suite boasts a super four poster king size bed with draping curtains. The floor is finished in wood and features a view of the courtyard pool area. Wall curtains allow maximum comfort whilst in your room.
+The suite is equipped with a Sony 47” TV, Sony Blueray DVD, Bose I Pod Dock for in room music.
+
+
+The Jiwa Suite features a walk in wardrobe finished in recycled wood. The area also contains a mini bar, facilities for tea and coffee making along with a safety box for guest valuables.
+
+
+The bathroom is finished in teak and ulin wood. With marble floors, and extensive use of glass the bathroom has an almost total transparency, highlighting the bathing in nature experience.
+
+
+The bathroom is equipped with a large Jacuzzi for guest relaxation and pleasure, together with a glass enclosed rain shower.
+
+
+The Deluxe Suites feature four poster king size beds with draping curtains.
+The suites are equipped with Sony 42”TVs, Sony Blueray DVDs Bose Ipod Dock for in room music.
+
+
+The finish of the bedrooms, walk in wardrobes and bathrooms is similar to the Jiwa Suite with maximum use being made of wood finishing, marble, mirrors and glass to give a spacious and natural feeling.
+
+
+Room Facilities:
+•Air Conditioning 
+•Built-in Wardrobe
+•Safety box
+•En-suite Bathroom with Bath Up
+•King Size Bed
+•Sofa
+•LCD TV with international channels
+•DVD player
+
+
+We are looking forward to having you stay at our wonderful villa.
+
+
+Please feel free to contact us if you have any questions or inquiries.
+
+
+PS: I also have few other villas (from 2 to 8 bedrooms) in Seminyak, Umals and Canggu. You can find a link to all my properties in my profile section.
+
+As I'm not often in Bali, it will generally be my staff that will welcome you at the villa and take care of you during your stay. If I'm not in Bali, I'm always reachable via email and I guaranty to respond fast. My team is trained to take good care of our guests and make sure they have a wonderful stay ;)
+
+
+The way from airport usually takes around 30 minutes (depending on traffic). If using our transfer service, the driver will meet you at the airport with a sign with your name. Either my staff or myself will will welcome you at the villa and give you a quick tour. We will be the one taking care of you during your stay so don't hesitate to contact us if you have any request. Otherwise, if you don't need us, we will simply give you privacy and let you fully enjoy your trip in Bali ;)
+
+Meals can be cooked for you by our staff, you just have to pay for the food cost.
+
+Also, my team and myself will always be happy to help you with booking any activities, excursions, scooters, car, boat tickets etc... Along the years of experience, we developed a network of partners and can therefore offer you everything you need at the best price! (See Other Things to Note section below) 
+
+
+Don't hesitate to ask me or my staff to help you with any of your request so we can be sure to make your trip in Bali exceptional ;)
+
+Quiet and trusty neighborhood with many villas and hotels.
+
+
+A few minutes walk away from the famous "food street" of Seminyak (Jl Kayu Aya). You will find there a wide selection of the most notorious restaurants in Seminyak where you can discover delicious local specialties as well as international food: Ultimo, Rumours, Trattoria, Char Char Bar and Grill are some of the many restaurants you will find there... 
+
+
+Petitenget beach is also a short walk from the villa so you can enjoy spending the day there followed by beautiful sunsets in the trendy spots like Potato Head, W, Ku De Ta where the atmosphere, the music, the drinks and the sunset view make them the perfect spots to end the day...
+
+
+
+5 min. walk to Semiyak Square.
+
+
+Easy and fast access to any part of the Seminyak-Canggu areas, and only 30mn away from Denpasar airport.
+
+While you will be in Bali, I can assist you with booking any tourist activity (Diving, Surf lessons, Rafting, trekking etc) or tickets to Gili slands, Lombok, Nusa Lembongan etc
+
+
+Here is a non-exhaustive list of what we can help you with:
+
+
+• Airport pick-up and drop-off can be organized (Rp 200 000.-/way, up to 6 pax).
+• Rent a car/motorbike (car with a driver/tour guide fitting 6 pax costs Rp 600 000.-/day; motorbike is Rp 50 000/day
+• Arrange surf lessons (starting at Rp 350 000 per person/day)
+• Organize a private yoga session at the villa 
+• Traditional Balinese massage and beauty services hair, nails & waxing 
+• Babysitting (Rp 50 000/hour)
+• Babycot if you come with an infant
+• Laundry and ironing services
+• Possibility to have dinner prepared at the villa upon request
+• Stocking food from supermarket and cooking lunch or dinner.
+• Tickets to the Gili Islands and Lombok (Rp 600 000.- return ticket)
+• Scuba diving trips, Rafting, Bali Volcano Trekking, and many more...
+
+
+We can help you with ANY request, so don't feel shy, just ask!
+
+
+I am looking forward to welcoming you.
+
+ 
+Please feel free to contact me if you have any questions or inquiries.]]></Text></Description></Descriptions><AdditionalFees><AdditionalFee Order="1" DiscriminatorID="2" KindID="2" Name="towels fee" Optional="false" Refundable="false" FeeTaxType="6" CollectTime="1"><Value>5.0000</Value></AdditionalFee><AdditionalFee Order="2" DiscriminatorID="3" KindID="1" Name="City Tax" Optional="false" Refundable="false" FeeTaxType="5" CollectTime="1"><Value>0.0500</Value></AdditionalFee><AdditionalFee Order="3" DiscriminatorID="4" KindID="1" Name="Property management company fee" Optional="false" Refundable="false" FeeTaxType="2" CollectTime="1"><Value>0.1000</Value></AdditionalFee><AdditionalFee Order="4" DiscriminatorID="4" KindID="1" Name="VAT tax" Optional="false" Refundable="false" FeeTaxType="2" CollectTime="1"><Value>0.2000</Value></AdditionalFee><AdditionalFee Order="3" DiscriminatorID="1" KindID="2" Name="Heating fee" Optional="true" Refundable="false" FeeTaxType="15" CollectTime="1"><Value>12.0000</Value></AdditionalFee></AdditionalFees><ChargeProfiles><ChargeProfile ID="0"><ApplicableAdditionalFee DiscriminatorID="4" Name="VAT tax" Optional="false" Refundable="false" FeeTaxType="2" CollectTime="1"><Value>0.2000</Value><ApplicableTo><FeeNames><FeeName>Heating fee</FeeName><FeeName>Property management company fee</FeeName><FeeName>towels fee</FeeName></FeeNames><Rent>true</Rent></ApplicableTo></ApplicableAdditionalFee><ApplicableAdditionalFee DiscriminatorID="1" Name="Heating fee" Optional="true" Refundable="false" FeeTaxType="15" CollectTime="1"><Value>12.0000</Value><ApplicableTo><FeeNames /><Rent>false</Rent></ApplicableTo></ApplicableAdditionalFee><ApplicableAdditionalFee DiscriminatorID="4" Name="Property management company fee" Optional="false" Refundable="false" FeeTaxType="2" CollectTime="1"><Value>0.1000</Value><ApplicableTo><FeeNames><FeeName>towels fee</FeeName></FeeNames><Rent>true</Rent></ApplicableTo></ApplicableAdditionalFee><ApplicableAdditionalFee DiscriminatorID="2" Name="towels fee" Optional="false" Refundable="false" FeeTaxType="6" CollectTime="1"><Value>5.0000</Value><ApplicableTo><FeeNames /><Rent>false</Rent></ApplicableTo></ApplicableAdditionalFee><ApplicableAdditionalFee DiscriminatorID="3" Name="City Tax" Optional="false" Refundable="false" FeeTaxType="5" CollectTime="1"><Value>0.0500</Value><ApplicableTo><FeeNames><FeeName>towels fee</FeeName></FeeNames><Rent>true</Rent></ApplicableTo></ApplicableAdditionalFee></ChargeProfile></ChargeProfiles></Property></Pull_ListSpecProp_RS>

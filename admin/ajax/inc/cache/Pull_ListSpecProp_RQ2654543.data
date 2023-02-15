@@ -1,0 +1,99 @@
+<Pull_ListSpecProp_RS><Status ID="0">Success</Status><ResponseID>3f4f79c8115945f796dc0dbc024c0827</ResponseID><Property Currency="EUR"><PUID BuildingID="-1">-1</PUID><ID BuildingID="-1" BuildingName="">2654543</ID><Name>Property 4</Name><OwnerID>565998</OwnerID><DetailedLocationID TypeID="4">25591</DetailedLocationID><LastMod NLA="false" Active="true">2021-04-15 14:39:15</LastMod><DateCreated>2020-06-01</DateCreated><UserID>565998</UserID><CleaningPrice>0.0000</CleaningPrice><Space>44</Space><StandardGuests>2</StandardGuests><CanSleepMax>4</CanSleepMax><PropertyTypeID>3</PropertyTypeID><ObjectTypeID>3</ObjectTypeID><NoOfUnits>1</NoOfUnits><Floor>2</Floor><Street>Inflancka 4</Street><ZipCode>00-189</ZipCode><LicenseNumber /><LicenceInfo /><Coordinates><Latitude>52.2560789</Latitude><Longitude>20.9950055</Longitude></Coordinates><ArrivalInstructions><Landlord>Artur Kozieł</Landlord><Email>reception@kozielloapartments.com</Email><Phone>+48 768561435</Phone><DaysBeforeArrival>0</DaysBeforeArrival><PickupService /><HowToArrive /></ArrivalInstructions><CheckInOut><CheckInFrom>13:00</CheckInFrom><CheckInTo>17:00</CheckInTo><CheckOutUntil>11:00</CheckOutUntil><Place>at_the_apartment</Place></CheckInOut><Deposit DepositTypeID="1">0</Deposit><SecurityDeposit DepositTypeID="1">0.00</SecurityDeposit><IsActive>true</IsActive><IsArchived>false</IsArchived><Distances /><CompositionRoomsAmenities><CompositionRoomAmenities CompositionRoomID="81"><Amenities /></CompositionRoomAmenities><CompositionRoomAmenities CompositionRoomID="257"><Amenities><Amenity Count="1">61</Amenity><Amenity Count="1">589</Amenity></Amenities></CompositionRoomAmenities><CompositionRoomAmenities CompositionRoomID="257"><Amenities /></CompositionRoomAmenities><CompositionRoomAmenities CompositionRoomID="101"><Amenities><Amenity Count="1">436</Amenity></Amenities></CompositionRoomAmenities><CompositionRoomAmenities CompositionRoomID="53"><Amenities /></CompositionRoomAmenities></CompositionRoomsAmenities><Amenities><Amenity Count="1">595</Amenity><Amenity Count="1">597</Amenity><Amenity Count="1">689</Amenity><Amenity Count="1">802</Amenity><Amenity Count="1">804</Amenity><Amenity Count="1">100</Amenity><Amenity Count="1">180</Amenity><Amenity Count="1">187</Amenity><Amenity Count="1">227</Amenity><Amenity Count="1">281</Amenity><Amenity Count="1">368</Amenity><Amenity Count="1">7</Amenity></Amenities><Images><Image ImageTypeID="1" ImageReferenceID="1">http://www.marsalgarve.com/media/26711284/Al-Fresco-dining-on-the-private-balcony.jpg</Image><Image ImageTypeID="3" ImageReferenceID="2">http://www.marsalgarve.com/media/26711292/Looking-into-Apartment-Lucinda-by-Marsalgarve.jpg</Image><Image ImageTypeID="3" ImageReferenceID="3">http://www.marsalgarve.com/media/26711300/Looking-out-to-the-private-balcony-at-Cabanas-Beach-Club.jpg</Image><Image ImageTypeID="3" ImageReferenceID="4">http://www.marsalgarve.com/media/26711276/Apartment-Lucinda-by-Marsalgarve-a-great-holiday-spot.jpg</Image><Image ImageTypeID="3" ImageReferenceID="5">http://www.marsalgarve.com/media/26711212/A-dining-area-inside-to-enjoy-fresh-local-cuisine.jpg</Image><Image ImageTypeID="3" ImageReferenceID="6">http://www.marsalgarve.com/media/26711308/Open-plan-living-the-perfect-holiday-base.jpg</Image><Image ImageTypeID="3" ImageReferenceID="7">http://www.marsalgarve.com/media/26711236/A-large-kitchen-with-modern-facilties-at-Cabanas-Beach-Club.jpg</Image><Image ImageTypeID="3" ImageReferenceID="8">http://www.marsalgarve.com/media/26711244/A-stuning-master-bedroom-with-a-balcony.jpg</Image><Image ImageTypeID="3" ImageReferenceID="9">http://www.marsalgarve.com/media/26711252/En-suite-facilties-and-Apartment-Lucinda.jpg</Image><Image ImageTypeID="3" ImageReferenceID="10">http://www.marsalgarve.com/media/26711340/Super-stylish-twin-beds-comfortable-and-inviting.jpg</Image><Image ImageTypeID="3" ImageReferenceID="11">http://www.marsalgarve.com/media/26711260/Clean-and-smart-shower-room-perfect-for-the-twin-bedroom.jpg</Image><Image ImageTypeID="3" ImageReferenceID="12">http://www.marsalgarve.com/media/26711316/Overlooking-the-swimming-pool-at-Cabanas-Beach-Club.jpg</Image><Image ImageTypeID="3" ImageReferenceID="13">http://www.marsalgarve.com/media/26711268/Catch-up-with-some-relaxing-sunbathing-in-peace.jpg</Image><Image ImageTypeID="3" ImageReferenceID="14">http://www.marsalgarve.com/media/26711332/sunshine-and-relax-super-lovely.jpg</Image><Image ImageTypeID="3" ImageReferenceID="15">http://www.marsalgarve.com/media/26711228/A-large-balcony-with-plenty-of-space-for-everyone.jpg</Image><Image ImageTypeID="3" ImageReferenceID="16">http://www.marsalgarve.com/media/26711324/Summer-holidays-beach-sun-sand-heaven.jpg</Image><Image ImageTypeID="3" ImageReferenceID="17">http://www.marsalgarve.com/media/26711220/A-great-location-within-the-complex-by-Marsalgarve.jpg</Image><Image ImageTypeID="3" ImageReferenceID="18">http://www.marsalgarve.com/media/343342/Bird-view.jpg</Image><Image ImageTypeID="3" ImageReferenceID="19">http://www.marsalgarve.com/media/343374/Sun-loungers.jpg</Image><Image ImageTypeID="3" ImageReferenceID="20">http://www.marsalgarve.com/media/343382/Swimming-pool.jpg</Image><Image ImageTypeID="3" ImageReferenceID="21">http://www.marsalgarve.com/media/20377477/A-lovely-place-to-enjoy-a-pool-day-and-some-fun.jpg</Image><Image ImageTypeID="3" ImageReferenceID="22">http://www.marsalgarve.com/media/20377485/Ah-whcih-apartments-belong-to-Marsalgarve-we-have-some-great-poolside-spots.jpg</Image><Image ImageTypeID="3" ImageReferenceID="23">http://www.marsalgarve.com/media/20377567/clear-blue-cool-waters-of-a-salt-pool-perfect-for-soft-skin.jpg</Image><Image ImageTypeID="3" ImageReferenceID="24">http://www.marsalgarve.com/media/20377921/secure-parking.jpg</Image><Image ImageTypeID="3">https://dwe6atvmvow8k.cloudfront.net/ru/565998/2654543/637540943439977128.jpg</Image></Images><ImageCaptions><ImageCaption LanguageID="1" ImageReferenceID="1">Al Fresco Dining On The Private Balcony</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="2">Looking Into Apartment Lucinda By Marsalgarve</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="3">Looking Out To The Private Balcony At Cabanas Beach Club</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="4">Apartment Lucinda By Marsalgarve A Great Holiday Spot</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="5">A Dining Area Inside To Enjoy Fresh Local Cuisine</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="6">Open Plan Living The Perfect Holiday Base</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="7">A Large Kitchen With Modern Facilties At Cabanas Beach Club</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="8">A Stuning Master Bedroom With A Balcony</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="9">En Suite Facilties And Apartment Lucinda</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="10">Super Stylish Twin Beds Comfortable And Inviting</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="11">Clean And Smart Shower Room Perfect For The Twin Bedroom</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="12">Overlooking The Swimming Pool At Cabanas Beach Club</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="13">Catch Up With Some Relaxing Sunbathing In Peace</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="14">Sunshine And Relax Super Lovely</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="15">A Large Balcony With Plenty Of Space For Everyone</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="16">Summer Holidays Beach Sun Sand Heaven</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="17">A Great Location Within The Complex By Marsalgarve</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="18">A fabulous birds eye view of the swimming pool</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="19">A great place to sit and relax around the pool</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="20">Clear cool blue waters what not to love....</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="21">A Lovely Place To Enjoy A Pool Day And Some Fun</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="22">Ah, Which Apartments Belong To Marsalgarve We Have Some Great Poolside Spots</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="23">Clear Blue Cool Waters Of A Salt Pool Perfect For Soft Skin</ImageCaption><ImageCaption LanguageID="1" ImageReferenceID="24">Secure Parking</ImageCaption></ImageCaptions><PaymentMethods><PaymentMethod PaymentMethodID="3"><![CDATA[
+            ]]></PaymentMethod></PaymentMethods><CancellationPolicies><CancellationPolicy ID="0" ValidFrom="0" ValidTo="10">100.00</CancellationPolicy></CancellationPolicies><Descriptions><Description LanguageID="1"><Text><![CDATA[Beautiful and modern brand new villa in the heart of Seminyak, 400m from world famous double 6 beach! All the comfort and service you can dream off for your perfect Bali getaway! 
+
+* FREE daily cleaning service
+* FREE wifi, towels, drinkable water, soap...
+* Breakfast can be provided at extra cost. See "Guest interaction" section for more details.
+* 5' walk from double 6 beach
+* 3' walk to restaurants, shops, bars
+* 5' to supermarket
+* 10' to Ku De Ta, Potato Head and W
+* Quiet & safe
+
+Villa Inclusion:
+
+• Welcoming drinks
+• UNLIMITED drinkable water, tea, coffee
+• UNLIMITED High speed Wifi
+• FREE daily cleaning service except Sundays (just a couple of hours a day to give you some privacy)
+• COMPLIMENTARY airport pick-up for a stay of 7 nights or more
+• Bathroom & pool towels, bed linens, mosquito repellent, toilet paper, shampoo, shower gel, hand soap, iron, hair dryer
+• Music sound system easy plug for your MP3 or phone
+• Smart TV (Netflix, Youtube...) 
+• SAFETY box in each bedroom
+• FREE baby cot if you come with an infant (subject to availability, inquire in advance)
+• FREE parking just at the front of the villa
+
+
+About the villa: 
+
+
+Beautiful 2 storey villa in a PREMIUM LOCATION RIGHT IN THE CENTER of SEMINYAK, the trendy area of Bali. Your own little heaven providing you with a quiet & relaxing atmosphere, yet only 2mn walk from all the action and ONLY 5mn from the most famous Seminyak beach!
+
+
+***** Some of the best night life venues such as La FAVELA, RED CARPET CHAMPAGNE BAR are literally 5mn drive from the villa!!!*****
+
+
+Villa layout:
+
+
+Ground floor:
+• 1 spacious air conditioned bedroom with king size bed and private en-suite bathroom 
+• Fully equipped kitchen with an integrated gas stove, fridge, freezer, microwave, dishes and cookware, mineral water dispenser, coffee machine, toaster, kettle etc
+• Dining area with table and chairs for everyone
+• Living area with sofa and table to relax and enjoy the cable smart TV with over 50 channels, powerful speakers with MP3 plug
+
+
+Outdoor:
+• Nice private swimming pool surrounded by tropical plants
+• Little green area
+
+
+First Floor:
+•2 big air conditioned bedrooms equipped with king size bed, en-suite bathroom, big wardrobe
+
+
+Note that although the villa is originally equipped for 6 people, we can also host up to 8 persons with extra mattresses and towels for an extra charge of $20/night/extra guest.
+
+We are looking forward to having you stay with us and please feel free to contact us if you have any questions or inquiries.
+
+
+PS: I also have many other villas all around Seminyak, Canggu and even Nusa Dua. All villas from 2 to 8 bedrooms from all price range. You can find a link to all my properties in my profile section or don't hesitate to ask me if you need information.
+
+Full property
+
+As I'm not often in Bali, it will generally be my staff that will welcome you at the villa and take care of you during your stay. If I'm not in Bali, I'm always reachable via email and I guaranty to respond fast. My team is trained to take good care of our guests and make sure they have a wonderful stay ;)
+
+The way from airport usually takes around 30 minutes (depending on traffic). If using our transfer service, the driver will meet you at the airport with a sign with your name. Either my staff or myself will welcome you at the villa and give you a quick tour. We will be the one taking care of you during your stay so don't hesitate to contact us if you have any request. Otherwise, if you don't need us, we will simply give you privacy and let you fully enjoy your trip in Bali ;)
+
+The villa is also fully staffed with our maid, and our gardener and pool attendant. They will always be happy to assist you if you need anything.
+
+Breakfast can be organized daily at extra cost: ingredient cost + Rp 20,000/person/breakfast.
+
+Also, my team and myself will always be happy to help you with booking any activities, excursions, scooters, car, boat tickets etc... Along the years of experience, we developed a network of partners and can therefore offer you everything you need at the best price! (See Other Things to Note section below) What makes this villa even more special, is that we can actually fulfill all your activity request right at the villa doorstep as we have a tourist information and tour booking booth WITHIN the villa complex! This will SAVE you a HUGE amount of time to fully enjoy your holidays!
+
+Don't hesitate to ask me or my staff to help you with any of your request so we can be sure to make your trip in Bali exceptional ;)
+
+PS: If you're happy with the service from my staff, feel free to leave them a tip of your convenience to show them your appreciation ;) Small gestures like this can make a big difference for them... Thank you for your understanding.
+
+While you will be in Bali, I can assist you with booking any tourist activity (Diving, Surf lessons, Rafting, trekking etc) or tickets to Gili slands, Lombok, Nusa Lembongan etc
+
+Here is a non-exhaustive list of what we can help you with:
+
+• Airport pick-up and drop-off can be organized (Rp 200 000.-/way, up to 6 pax).
+• Rent a car/motorbike: car with a driver/tour guide fitting 6 pax costs Rp 600 000.-/day; 
+• Arrange surf lessons (starting at Rp 350 000 per person/day)
+• Organize a private yoga session at the villa 
+• Traditional Balinese massage and beauty services hair, nails & waxing 
+• Babysitting (Rp 50 000/hour)
+• Laundry and ironing services
+• Possibility to have dinner prepared at the villa upon request
+• Stocking food from supermarket and cooking lunch or dinner.
+• Tickets to the Gili Islands, Nusa Lembongan, Nusa Penida or Lombok 
+• Scuba diving trips, Rafting, Bali Volcano Trekking, and many more...
+
+We can help you with ANY request, so don't feel shy, just ask!
+
+I am looking forward to welcoming you at villa 66.
+ 
+Please feel free to contact me if you have any questions or inquiries.]]></Text></Description></Descriptions><AdditionalFees /><ChargeProfiles><ChargeProfile ID="0" /></ChargeProfiles></Property></Pull_ListSpecProp_RS>
